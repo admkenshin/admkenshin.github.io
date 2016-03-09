@@ -1,2 +1,2 @@
-# admkenshin.github.io
-My personal site
+# My personal site
+I am just using this site on GitHub Pages to learn jekyll.
